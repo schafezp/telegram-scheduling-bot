@@ -1,0 +1,22 @@
+{
+  "name": "telegram-scheduling-bot",
+  "version": "1.0.0",
+  "description": "A telegram bot to schedule reminders for events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schafezp/telegram-scheduling-bot.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/schafezp/telegram-scheduling-bot/issues"
+  },
+  "homepage": "https://github.com/schafezp/telegram-scheduling-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.24.0"
+  }
+}
