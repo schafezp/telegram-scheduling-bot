@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/schafezp/telegram-scheduling-bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.24.0"
+    "node-telegram-bot-api": "^0.24.0",
+    "telebot": "^1.0.6"
   }
 }
