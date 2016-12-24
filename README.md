@@ -18,6 +18,12 @@ git-crypt unlock
 
 If you have a gpg fingerprint is authenticated then this command will decrypt the secret and you can run the app as normal.
 
+The following fingerprints are whitelisted.
+
+ED37AAC91797CB91673A13A754290EF89F9B5E2B                                         
+1A2BE4304D36F18F6313DC744C722B220806DF78
+
+
 
 To run the app, go into the project directory andrun
 
