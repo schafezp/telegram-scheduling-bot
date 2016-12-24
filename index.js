@@ -1,5 +1,6 @@
 const TeleBot = require('telebot');
-const bot = new TeleBot('300253032:AAEO8X4HOmNlzFA6_dfS5avAoR7h7MfBly4');
+const api_secret = require('./api_secret');
+const bot = new TeleBot(api_secret.api_key);
 bot.on('/hello', msg => {
     let fromId = msg.from.id;
     let firstName = msg.from.first_name;
