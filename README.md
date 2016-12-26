@@ -22,7 +22,7 @@ The following fingerprints are whitelisted.
 
 ED37AAC91797CB91673A13A754290EF89F9B5E2B                                         
 1A2BE4304D36F18F6313DC744C722B220806DF78
-
+3FA7EED772D9F9BF36727E22B00967D7CE23FECA
 
 
 To run the app, go into the project directory andrun
