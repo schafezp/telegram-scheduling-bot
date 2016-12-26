@@ -16,7 +16,7 @@ Download git-crypt then cd into the project folder and run
 git-crypt unlock
 ```
 
-If you have a gpg fingerprint is authenticated then this command will decrypt the secret and you can run the app as normal.
+If you have a gpg fingerprint which is authenticated then this command will decrypt the secret and you can run the app as normal.
 
 The following fingerprints are whitelisted.
 
